@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Lora';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fontsgstaticcom/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ_6684797.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../fontsgstaticcom/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg_6291513.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Lora';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(../fontsgstaticcom/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg_7209043.ttf) format('truetype');
+}
