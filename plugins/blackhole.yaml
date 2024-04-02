@@ -1,9 +1,0 @@
-enabled: false
-generate:
-  output_url: '--output-url https://group4sewmsu.github.io/portfolio/'
-  output_path: '--output-path ../build'
-  routes: '--routes root, home, typography, images, /user_register, /login'
-  use_sitemap: true
-  simultaneous: 10
-  assets: true
-  force: true

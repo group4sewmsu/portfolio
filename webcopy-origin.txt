@@ -1,0 +1,336 @@
+Uri: https://127.0.0.1:8000/
+File Name: C:\Downloaded Web Sites\127.0.0.1\index.htm
+Content Type: text/html
+
+Uri: https://127.0.0.1:8000/admin
+File Name: C:\Downloaded Web Sites\127.0.0.1\admin.html
+Content Type: text/html
+
+Uri: https://127.0.0.1:8000/admin/forgot
+File Name: C:\Downloaded Web Sites\127.0.0.1\admin\forgot.html
+Content Type: text/html
+
+Uri: https://127.0.0.1:8000/assets/admin-preset.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\assets\admin-preset.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/forgot_password
+File Name: C:\Downloaded Web Sites\127.0.0.1\forgot_password.html
+Content Type: text/html
+
+Uri: https://127.0.0.1:8000/login
+File Name: C:\Downloaded Web Sites\127.0.0.1\login.html
+Content Type: text/html
+
+Uri: https://127.0.0.1:8000/system/assets/jquery/jquery-3.x.min.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\system\assets\jquery\jquery-3.x.min.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/system/assets/jquery/jquery-3.x.min.js?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\system\assets\jquery\jquery-3.x.min-1.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/assets/facebook-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\facebook-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/github-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\github-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/JunJutsu.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\JunJutsu.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/linkedin-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\linkedin-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/messenger-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\messenger-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/telegram-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\telegram-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/assets/whatsapp-icon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\assets\whatsapp-icon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/nucleus.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css-compiled\nucleus.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/simple-fonts.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css-compiled\simple-fonts.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/template.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css-compiled\template.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/chartist.min.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/fork-awesome.min.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css\fork-awesome.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/hint.base.min.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css\hint.base.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/iconpicker.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css\iconpicker.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/selectize.min.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\css\selectize.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.eot?v=1.1.5
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.svg?v=1.1.5
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.ttf?v=1.1.5
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.woff2?v=1.1.5
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/forkawesome-webfont.woff?v=1.1.5
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\forkawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.eot
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\rockettheme-apps\rockettheme-apps.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.eot?
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\rockettheme-apps\rockettheme-apps-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\rockettheme-apps\rockettheme-apps.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\rockettheme-apps\rockettheme-apps.ttf
+Content Type: font/ttf
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/fonts/rockettheme-apps/rockettheme-apps.woff
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\fonts\rockettheme-apps\rockettheme-apps.woff
+Content Type: font/woff
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/favicon.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\favicon.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/book-edit.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\book-edit.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/clock-hands.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\clock-hands.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/crown.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\crown.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/house.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\house.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/module-four.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\module-four.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/icons/touchid-lock.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\icons\touchid-lock.svg
+Content Type: image/svg+xml
+
+Uri: https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/transparent.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\admin\themes\grav\images\transparent.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/plugins/form/assets/form-styles.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\form\assets\form-styles.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/login/css/login.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\login\css\login.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/markdown-notices/assets/notices.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\markdown-notices\assets\notices.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/markdown-notices/assets/notices.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\markdown-notices\assets\notices-1.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/simplesearch/css/simplesearch.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\simplesearch\css\simplesearch.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/plugins/simplesearch/js/simplesearch.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\simplesearch\js\simplesearch.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/plugins/static-generator/js/site-generator.admin.js?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\static-generator\js\site-generator.admin.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/plugins/static-generator/node_modules/eventsource/example/eventsource-polyfill.js?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\plugins\static-generator\node_modules\eventsource\example\eventsource-polyfill.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/css/custom.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/css/custom.css?61e9baad25
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\css\custom-1.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/css/theme.min.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\css\theme.min.css
+Content Type: text/css
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\js\custom.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/assets/js/theme.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\assets\js\theme.js
+Content Type: text/javascript
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/images/JunJutsu3x3.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\images\JunJutsu3x3.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user/themes/mundana/images/logo/JunJutsu3x3.png
+File Name: C:\Downloaded Web Sites\127.0.0.1\user\themes\mundana\images\logo\JunJutsu3x3.png
+Content Type: image/png
+
+Uri: https://127.0.0.1:8000/user_register
+File Name: C:\Downloaded Web Sites\127.0.0.1\user_register.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\npm\bootstrap@4.6.2\dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\127.0.0.1\npm\popper.js@1.16.1\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Lora:400,400i,700&display=swap
+File Name: C:\Downloaded Web Sites\127.0.0.1\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787weuxJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\s\lora\v35\0QI6MX1D_JOuGQbT0gvTJPa787z5vBJBkqg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lora/v35/0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\s\lora\v35\0QI8MX1D_JOuMw_hLdO6T2wV9KnW-MoFoq92mQ.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/css/all.css
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\127.0.0.1\releases\v5.15.4\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
