@@ -1,0 +1,157 @@
+
+        <!DOCTYPE html>
+    <html lang="en">
+    
+<!-- Mirrored from 127.0.0.1:8000/admin by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Apr 2024 04:35:58 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+            <meta charset="utf-8" />
+        <title>Grav Admin Login | Joseph L. Harun - Portfolio</title>
+                    <meta name="description" content="">
+                            <meta name="robots" content="noindex, nofollow">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" type="image/png" href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/images/favicon.png">
+
+                            
+                                        
+            <link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/nucleus.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/template.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/markdown-notices/assets/notices.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/themes/mundana/assets/css/custom.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css-compiled/simple-fonts.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/fork-awesome.min.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/chartist.min.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/selectize.min.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/hint.base.min.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/user/plugins/admin/themes/grav/css/iconpicker.css?61e9baad25" type="text/css" rel="stylesheet">
+<link href="https://127.0.0.1:8000/assets/admin-preset.css?61e9baad25" type="text/css" rel="stylesheet">
+<style>
+pre.static-generator-command[data-header] {
+                    position: relative;
+                    margin: 1rem 1.5rem 0 1.5rem;
+                    padding: 1.75rem 0.75rem 0.75rem 0.75rem;
+                    white-space: pre-wrap;
+                }
+                pre.static-generator-command[data-header]:before {
+                    content: attr(data-header);
+                    display: block;
+                    position: absolute;
+                    top: 0;
+                    right: 0;
+                    left: 0;
+                    background-color: #666666;
+                    padding: 0 0.5rem;
+                    font: bold 11px/20px Arial,Sans-Serif;
+                    color: #ffffff;
+                }
+</style>
+
+        <script src="https://127.0.0.1:8000/system/assets/jquery/jquery-3.x.min.js?61e9baad25"></script>
+<script src="https://127.0.0.1:8000/user/plugins/static-generator/node_modules/eventsource/example/eventsource-polyfill.js?61e9baad25"></script>
+<script src="https://127.0.0.1:8000/user/plugins/static-generator/js/site-generator.admin.js?61e9baad25"></script>
+<script>
+const StaticGeneratorTranslation = {"ADMIN":{"GENERIC":{"STORED":"stored","ITEMS":"items","IN":"in"},"SEARCH":"Search","ROUTE":"Route","GENERATE":{"TITLE":"Generate","EXPLANATION":"Fill in the fields below and run the Command in a terminal to create a static copy of the site. All fields are optional. The Command must be run from the root-folder where Grav is installed.","COMMAND":"Command"},"PRESETS":{"TITLE":"Presets","SINGULAR":"Preset","ROOT_PREFIX":"Root Prefix","ASSETS":"Include Assets","STATIC_ASSETS":"Include Static Assets","IMAGES":"Include Images","PARAMETERS":{"TITLE":"Parameters","VALUE":"Value"},"FILTERS":"Filters","EXPLANATION":"Presets are sets of configurations for telling the plugin how Grav should behave when generating the static copy of the Page(s). A preset only requires a name, parameters and a copy of the current settings are optional. When you click the Copy-button, Grav's site-, system- and extension-settings are stored, and will be used when generating from the preset.  Run the Command in a terminal to create a static copy of the site. The Command must be run from the root-folder where Grav is installed."},"TITLE":"Static Generator Options","SEARCH_FILE":"Search File","STORAGE":{"INDEX":"Index Location","CONTENT":"Content Location","TARGET":"Target","OPTIONS":{"PERSIST":"Persist","TRANSIENT":"Transient","NATIVE":"Native"}},"EMPTY":"Found no lower-level Pages","CONTENT_MAX_LENGTH":"Content Max Length","CONTENT_PERMISSIONS":"Content Permissions","ADMIN":"Admin","JS":"Admin JS","CSS":"Admin CSS","QUICK_TRAY":"Quick Tray","QUICK_TRAY_PERMISSIONS":"Quick Tray Permissions","INDEX":{"HINT":"Store Index Data","WAITING":"Waiting for Static Generator ...","ONGOING":"Creating Data ...","SUCCESS":"Saved Data","ERROR":"Failed to Create or Save Data"},"CONTENT":{"HINT":"Store Content Data"},"HELP":{"ROUTE":"Page Route, excluding initial forward slash","PRESETS":{"NAME":"Name of the Preset","PARAMETERS":{"DESCRIPTION":"Key-value pairs to pass to Config or Twig, in dot-notation format.","KEY":"Eg. theme.color","VALUE":"Eg. blue"},"FILTERS":"Collection-methods to apply for filtering."},"STORAGE":{"TARGET":"Non-default location to store the Preset in","ROOT_PREFIX":"Base path prefixed to assets and images"}},"DESCRIPTION":{"SEARCH_FILE":"File to use for searching.","STORAGE":{"INDEX":"Where to store search-files.","CONTENT":"Where to store static copies of the site.","EXPLANATION":"Must be a [valid Stream-wrapper](https:\/\/learn.getgrav.org\/16\/advanced\/multisite-setup#streams) that PHP can resolve and write to."},"CONTENT_MAX_LENGTH":"Maximum characters in Page when generating content. If the Page contains more, it will not be stored.","CONTENT_PERMISSIONS":"Permissions to see and use Generate-button from Admin.","ADMIN":"Enable plugin in Admin.","JS":"Use plugin's JavaScript in Admin.","CSS":"Use plugin's CSS in Admin.","QUICK_TRAY":"Enable Quick Tray button","QUICK_TRAY_PERMISSIONS":"Permissions to see and use Index-button from Admin."}}};
+</script>
+
+    
+    <noscript>
+        <style>
+            .simplebar-content-wrapper {
+                overflow: auto;
+            }
+        </style>
+    </noscript>
+
+    </head>
+    <body id="admin-login-wrapper">
+    <section id="admin-login" class="login-box-shadow ">
+
+            <h1 class="text-logo">
+        JunJutsu
+    </h1>
+
+        <div id="messages" class="top-notifications-container">
+    <div class="single-notification info alert hidden" data-gpm-grav></div></div>
+
+        
+        
+        
+
+        <form method="post" action="#">
+            <div class="padding">
+                                    <div>            
+            
+                    
+    
+
+    <div class="form-field grid  ">
+                                <div class="form-label block size-1-3">
+                               <label class="">
+                                                                                        
+                                                                <span class="required">*</span>
+                                </label>
+                            </div>
+                        <div class="form-data block size-2-3"
+                                data-grav-field="text"
+                data-grav-disabled=""
+                data-grav-default="null"
+                            >
+                                                            <div class="form-input-wrapper  ">
+                                                                                    <input
+                                                                name="data[username]"
+                                value=""
+                                                                                                    type="text"
+                                                                                                                                                                                                    placeholder="Username or Email"                                    autofocus="autofocus"                                                                                                                                                required="required"                                                                                                        
+                            />
+                                                        </div>
+                                                                </div>
+            </div>
+
+        </div>              <div>            
+            
+                    
+    
+
+    <div class="form-field grid  ">
+                                <div class="form-label block size-1-3">
+                               <label class="">
+                                                                                        
+                                                                <span class="required">*</span>
+                                </label>
+                            </div>
+                        <div class="form-data block size-2-3"
+                                data-grav-field="password"
+                data-grav-disabled=""
+                data-grav-default="null"
+                            >
+                                                            <div class="form-input-wrapper  ">
+                                                                                    <input
+                                                                name="data[password]"
+                                value=""
+                                                                                                    type="password"
+                                                                                                                                                                                        placeholder="Password"                                                                                                                                                                                    required="required"                                                                                                        
+                            />
+                                                    </div>
+                                                                </div>
+            </div>
+
+        </div>    
+    <div class="form-actions primary-accent">
+        <a class="button secondary" href="https://127.0.0.1:8000/admin/forgot"><i class="fa fa-exclamation-circle"></i> Forgot</a>
+        <button type="submit" class="button primary" name="task" value="login"><i class="fa fa-sign-in"></i> Login</button>
+    </div>
+
+                <input type="hidden" name="login-nonce" value="dfad04a646572f1196c77173b6a80e14" />
+            </div>
+        </form>
+
+        <script>
+            $(document).ready( function() {
+                $('#messages').delay(5000).animate({ height: 'toggle', opacity: 'toggle' }, 'slow');
+            });
+        </script>
+    </section>
+</body>
+    
+<!-- Mirrored from 127.0.0.1:8000/admin by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 02 Apr 2024 04:35:58 GMT -->
+</html>
