@@ -1,0 +1,41 @@
+Administration:
+  access:
+    site:
+      login: true
+    admin:
+      login: true
+      super: true
+      cache: true
+      configuration: true
+      pages: true
+      maintenance: true
+      statistics: true
+      plugins: true
+      themes: true
+      tools: true
+      users: true
+      flex-objects: true
+  readableName: Administrator
+  description: 'In the realm of software systems, "Administration" refers to the overarching process of managing and controlling the operation of an application or platform. This encompasses tasks such as configuring settings, managing user accounts and permissions, monitoring system health, and enforcing security measures.  An "Administrator" is a specific user role within this administrative framework. Administrators possess elevated access rights and permissions, granting them the authority to perform critical tasks essential for the system''s operation and maintenance. These tasks include installing and configuring software components, managing user accounts and access levels, overseeing system performance and resource allocation, and enforcing security policies.  Administrators play a pivotal role in ensuring the smooth operation and security of the system they oversee. They are responsible for implementing changes, updates, and configurations to meet organizational needs and compliance requirements while safeguarding the integrity and confidentiality of the system''s data and resources.  In essence, "Administration" encompasses the broader process of system management, while an "Administrator" is an individual entrusted with the authority and responsibility to execute administrative tasks and maintain the system''s functionality, security, and performance.'
+  enabled: true
+User:
+  access:
+    site:
+      login: true
+    admin:
+      login: false
+      super: false
+      cache: false
+      configuration: false
+      pages: false
+      maintenance: false
+      statistics: false
+      plugins: false
+      themes: false
+      tools: false
+      users: false
+      contacts: false
+      flex-objects: false
+  readableName: User
+  description: User
+  enabled: true

@@ -1,0 +1,68 @@
+enabled: true
+production-mode: true
+blog-page: /blog
+dropdown:
+  enabled: true
+back_to_top_button: true
+custom_logo_enabled: true
+custom_logo_width: 100
+custom_css: '1'
+custom_js: '1'
+menu_langswitcher: true
+menu_search: false
+menu_login: true
+override_page_style: false
+navbar:
+  container_fluid: false
+  height: 70
+  display_site_name: true
+  icon_group: fab
+  icon_size: fa-lg
+  style: light
+  bgcolor: dark
+custom_menu_enabled: true
+sidebar_showtaxonomy: '1'
+sidebar_showarchives: '1'
+sidebar_showrelatedpages: '1'
+sidebar_showfeeds: '1'
+sidebar_showrandom: '1'
+blog_route: /blog
+featuredposts: true
+featuredposts_tag: featured
+featuredposts_number: 3
+share_enable: true
+mailchimp_enable: true
+mailchimp_title: null
+mailchimp_description: null
+mailchimp_address: null
+disqus_enable: true
+disqus_name: null
+footer_text_left: '2024 Joseph L. Harun. All rights reserved.'
+footer_text_right: ™
+custom_logo:
+  user/themes/mundana/images/logo/JunJutsu.png:
+    name: JunJutsu.png
+    full_path: JunJutsu.png
+    type: image/png
+    size: 40320
+    path: user/themes/mundana/images/logo/JunJutsu.png
+custom_logo_mobile:
+  user/themes/mundana/images/logo/JunJutsu.png:
+    name: JunJutsu.png
+    full_path: JunJutsu.png
+    type: image/png
+    size: 40320
+    path: user/themes/mundana/images/logo/JunJutsu.png
+favicon:
+  user/themes/mundana/images/JunJutsu.png:
+    name: JunJutsu.png
+    full_path: JunJutsu.png
+    type: image/png
+    size: 40320
+    path: user/themes/mundana/images/JunJutsu.png
+custom_menu_items:
+  -
+    text: Register
+    icon: null
+    url: /user_register
+    target: _self

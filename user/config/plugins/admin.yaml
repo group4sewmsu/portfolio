@@ -1,0 +1,113 @@
+enabled: true
+route: /admin
+cache_enabled: true
+theme: grav
+logo_text: JunJutsu
+body_classes: null
+content_padding: true
+twofa_enabled: true
+sidebar:
+  activate: tab
+  hover_delay: 100
+  size: auto
+dashboard:
+  days_of_stats: 7
+widgets_display:
+  dashboard-maintenance: 'true'
+  dashboard-statistics: 'true'
+  dashboard-notifications: 'true'
+  dashboard-feed: 'true'
+  dashboard-pages: 'true'
+pages:
+  show_parents: both
+  show_modular: true
+  parents_levels: null
+session:
+  timeout: 1800
+edit_mode: normal
+frontend_preview_target: inline
+show_github_msg: true
+admin_icons: line-awesome
+enable_auto_updates_check: true
+notifications:
+  feed: true
+  dashboard: true
+  plugins: true
+  themes: true
+popularity:
+  enabled: true
+  ignore:
+    - '/test*'
+    - /modular
+  history:
+    daily: '30'
+    monthly: '12'
+    visitors: '20'
+whitelabel:
+  quicktray_recompile: false
+  codemirror_theme: paper
+  codemirror_fontsize: md
+  codemirror_md_font: sans
+  logo_custom:
+    user/assets/JunJutsu3x3.png:
+      name: JunJutsu3x3.png
+      full_path: JunJutsu3x3.png
+      type: image/png
+      size: 34624
+      path: user/assets/JunJutsu3x3.png
+  logo_login:
+    user/assets/JunJutsu3x3.png:
+      name: JunJutsu3x3.png
+      full_path: JunJutsu3x3.png
+      type: image/png
+      size: 34624
+      path: user/assets/JunJutsu3x3.png
+  color_scheme:
+    accents:
+      primary-accent: logo
+      secondary-accent: update
+      tertiary-accent: critical
+    colors:
+      logo-bg: '#3494cf'
+      logo-link: '#ffffff'
+      nav-bg: '#354052'
+      nav-text: '#8c98ad'
+      nav-link: '#b4bed6'
+      nav-selected-bg: '#30394A'
+      nav-selected-link: '#ffffff'
+      nav-hover-bg: '#3c485e'
+      nav-hover-link: '#ffffff'
+      toolbar-bg: '#2c79b0'
+      toolbar-text: '#ffffff'
+      page-bg: '#30394A'
+      page-text: '#8c98ad'
+      page-link: '#ffffff'
+      content-bg: '#354052'
+      content-text: '#8c98ad'
+      content-link: '#3EA7E6'
+      content-link2: '#3cb8ba'
+      content-header: '#b4bed6'
+      content-tabs-bg: '#4a5873'
+      content-tabs-text: '#d1ddf0'
+      button-bg: '#3EA7E6'
+      button-text: '#ffffff'
+      notice-bg: '#3EA7E6'
+      notice-text: '#ffffff'
+      update-bg: '#A652AB'
+      update-text: '#ffffff'
+      critical-bg: '#b84256'
+      critical-text: '#ffffff'
+      content-highlight: '#ffffd7'
+    name: null
+  custom_footer: null
+  custom_css: null
+  custom_presets: null
+show_beta_msg: null
+pagemedia:
+  resize_width: 0
+  resize_height: 0
+  res_min_width: 0
+  res_min_height: 0
+  res_max_width: 0
+  res_max_height: 0
+  resize_quality: 0.8
